@@ -1,6 +1,6 @@
 # Zombie Puncher (Next.js + Canvas) — Javi vs Bots
 
-Game web 2D chạy trên trình duyệt (desktop-first).
+
 
 
 Game web 2D chạy trên trình duyệt (desktop-first).
