@@ -4,6 +4,8 @@ Game web 2D chạy trên trình duyệt (desktop-first).
 
 Game web 2D chạy trên trình duyệt (desktop-first).
 
+Game web 2D chạy trên trình duyệt (desktop-first).
+
 ## Controls
 - Move: WASD / Arrow
 - Punch: Space or Mouse Click
